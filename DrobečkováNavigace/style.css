@@ -1,0 +1,24 @@
+.navigace {
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navigace_item {
+    display: inline-block;
+
+}
+.navigace_item:not(:last-of-type)::after {
+    content: '~';
+    margin: 0 5px;
+    color: grey;
+}
+.navigace_link {
+    text-decoration: none;
+    color: grey;
+}
+.navigace_link:hover{
+    text-decoration: underline;
+}
+.navigace_link--active {
+    color:royalblue;
+    font-weight: 500;
+}
