@@ -1,2 +1,2 @@
 Společná práce s Honzou Tančibokem
-![](https://github.com/[ItsSabey]/[PraxeSkupinovýProjektC]/blob/Capture1.jpg?raw=true)
+![img](https://gyazo.com/6f291aef9f749816fe2a87756b20dff5)
