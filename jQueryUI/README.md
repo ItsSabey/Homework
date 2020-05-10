@@ -8,7 +8,7 @@ Button ✔ <br/>
 Controlgroup ~ <br/>
 Datepicker ✔ <br/>
 SelectMenu ✔ <br/>
-Autocomplete X <br/>
+Autocomplete ✘ <br/>
 
 ## Autocomplete nefunkčnost
  <script> <br/>
