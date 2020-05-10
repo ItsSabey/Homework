@@ -17,10 +17,10 @@ Autocomplete X <br/>
  "Velmi dlouhý seznam" <br/>
  
 
-#<div class="field-column"> <br/>
- #   <label>Country</label> <br/>
-  #  <div> <br/>
-   #     <input type="text" class="demo-input-box" id="countryList"> <br/>
-   # </div> <br/>
-   # </div> <br/>
+div class="field-column" <br/>
+ <label>Country</label <br/>
+ div <br/>
+   input type="text" class="demo-input-box" id="countryList" <br/>
+   /div> <br/>
+   /div> <br/>
     
