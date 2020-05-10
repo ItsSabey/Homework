@@ -2,26 +2,26 @@
 ![](Capture.JPG)
 ![](Capture2.JPG)
 
-Použitý software: Atom, XAMPP
-Jazyky: PHP (snad), HTML, CSS
-Button ✔
-Controlgroup ~
-Datepicker ✔
-SelectMenu ✔
-Autocomplete X
+Použitý software: Atom, XAMPP <br/>
+Jazyky: PHP (snad), HTML, CSS <br/>
+Button ✔ <br/>
+Controlgroup ~ <br/>
+Datepicker ✔ <br/>
+SelectMenu ✔ <br/>
+Autocomplete X <br/>
 
 ## Autocomplete nefunkčnost
-<head>
- <script>
- $( function() {
- var countryList = [
- "Velmi dlouhý seznam"
- </head>
+<head> <br/>
+ <script> <br/>
+ $( function() { <br/>
+ var countryList = [ <br/>
+ "Velmi dlouhý seznam" <br/>
+ </head> <br/>
 
-<div class="field-column">
-    <label>Country</label>
-    <div>
-        <input type="text" class="demo-input-box" id="countryList">
-    </div>
-    </div>
+<div class="field-column"> <br/>
+    <label>Country</label> <br/>
+    <div> <br/>
+        <input type="text" class="demo-input-box" id="countryList"> <br/>
+    </div> <br/>
+    </div> <br/>
     
