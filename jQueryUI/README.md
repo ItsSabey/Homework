@@ -15,8 +15,7 @@ Autocomplete X <br/>
  $( function() { <br/>
  var countryList = [ <br/>
  "Velmi dlouhý seznam" <br/>
- 
-
+<br/>
 div class="field-column" <br/>
  <label>Country</label <br/>
  div <br/>
