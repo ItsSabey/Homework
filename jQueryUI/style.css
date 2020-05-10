@@ -1,0 +1,51 @@
+body {
+    font-family: Helvetica;
+    color: #333;
+    font-size: 0.95em;
+}
+h1 {
+  color: #6f88bd
+}
+.box {
+    background: #ffffff;
+    border-spacing: initial;
+    margin: 15px auto;
+    word-break: break-word;
+    table-layout: auto;
+    line-height: 1.8em;
+    color: #333;
+    border-radius: 4px;
+    padding: 20px 40px;
+    width: 380px;
+    border: 5px solid;
+    border-color: #324d87;
+
+}
+
+.demo-table .label {
+    color: #888888;
+}
+
+.demo-table .field-column {
+    padding: 20px 30px;
+}
+
+.demo-input-box {
+    padding: 13px;
+    border: #CCC 1px solid;
+    border-radius: 4px;
+    width: 100%;
+}
+
+.btn {
+    padding: 13px;
+    margin-top: 20px;
+    margin-left: 13px;
+    background-color: #5324cd;
+    color: #f5f7fa;
+    cursor: pointer;
+    border-radius: 4px;
+    width: 100%;
+    border: #5791da 1px solid;
+    font-size: 1.1em;
+}
