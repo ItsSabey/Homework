@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      #map {
+        height: 400px;
+        width: 100%;
+       }
+    </style>
+  </head>
+  <body>
+    <h3>Maps</h3>
+
+    <div id="map"></div>
+    <script>
+
+function initMap() {
+
+  var varnsdorf = {lat: 50.9115, lng: 14.6182};
+  var noviligure = {lat: 44.7620, lng: 8.7859};
+
+  var map = new google.maps.Map(
+      document.getElementById('map'), {zoom: 4, center: noviligure});
+
+  var marker = new google.maps.Marker({position: varnsdorf, map: map});
+  var marker = new google.maps.Marker({position: noviligure, map: map});
+}
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCGYM0GaD8NEstAiygKtu4AJ9bOAehDFFA&callback=initMap">
+    </script>
+  </body>
+</html>
