@@ -17,6 +17,6 @@ Mapa se vygeneruje, ale chybí body.
 mapmarkers2.php ´´error on line 6 at column 6: XML declaration allowed only at the start of the document´´>
 Opravdu jsem všechno vyzkoušel, ale mě to nefunguje.
 
-## Database
+## Databaze
 
 ![](database.JPG)
