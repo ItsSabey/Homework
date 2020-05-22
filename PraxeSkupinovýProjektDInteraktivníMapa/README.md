@@ -9,7 +9,8 @@ Provedeno prostřednictvím tutoriálu Google https://developers.google.com/maps
 ## Mapa
 Mapa se vygeneruje, ale chybí body.
 
-mapmarkers2.php ´´error on line 6 at column 6: XML declaration allowed only at the start of the document´´ 
+mapmarkers2.php ´´error on line 6 at column 6: XML declaration allowed only at the start of the document´´ <br>
+
 Opravdu jsem všechno vyzkoušel, ale mě to nefunguje.
 
 ## Database
