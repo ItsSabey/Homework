@@ -4,7 +4,7 @@
 
 Provedeno prostřednictvím tutoriálu Google https://developers.google.com/maps/documentation/javascript/mysql-to-maps (což je trochu outdated)
 
-# Problem
+# Problemy
 
 ## Mapa
 
