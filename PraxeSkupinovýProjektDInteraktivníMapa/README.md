@@ -22,7 +22,7 @@ Opravdu jsem všechno vyzkoušel, ale mě to nefunguje.
 ![](database.JPG)
 
 ## Ve složce ´´Maps´´ najdete index se značkami bez databáze.
-![Maps](map.JPG)
+![](/Maps/map.JPG)
 ### Softwares
 Visual Studio Code, XAMMP, PHPMyAdmin,Apache
 ### Jazyky
