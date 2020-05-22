@@ -20,3 +20,9 @@ Opravdu jsem všechno vyzkoušel, ale mě to nefunguje.
 ## Databaze
 
 ![](database.JPG)
+
+### Softwares
+Visual Studio Code, XAMMP, PHPMyAdmin,Apache
+### Jazyky
+HTML, CSS, PHP, JS
+
