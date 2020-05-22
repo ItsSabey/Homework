@@ -24,7 +24,7 @@ Opravdu jsem všechno vyzkoušel, ale mě to nefunguje.
 ## Ve složce ´´Maps´´ najdete index se značkami bez databáze.
 ![](/Maps/map.JPG)
 ### Softwares
-Visual Studio Code, XAMMP, PHPMyAdmin,Apache
+Visual Studio Code, XAMMP, PHPMyAdmin, Apache
 ### Jazyky
 HTML, CSS, PHP, JS
 
