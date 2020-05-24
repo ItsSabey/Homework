@@ -26,5 +26,5 @@ Nechápu, kde je problém.
 ### Softwares
 Visual Studio Code, XAMMP, PHPMyAdmin, Apache
 ### Jazyky
-HTML, CSS, PHP, JS
+HTML, CSS, PHP, JS, XML(možna)
 
