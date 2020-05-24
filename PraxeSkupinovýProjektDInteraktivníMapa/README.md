@@ -2,7 +2,8 @@
 # Praxe Skupinový Projekt D Interaktivní Mapa 
 ### Matice odpovědnosti
  Cabiddu= PHP/HTML <br>
- Tančibok= DBS/CSS <br>
+ Tančibok= DBS/CSS
+ Meidl= DBS/CSS <br>
   <br>
   <br>
 ### Provedeno prostřednictvím tutoriálu Google <br>https://developers.google.com/maps/documentation/javascript/mysql-to-maps (což je trochu outdated)
