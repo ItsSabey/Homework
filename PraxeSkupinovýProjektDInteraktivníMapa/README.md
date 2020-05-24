@@ -1,6 +1,6 @@
 
 # Praxe Skupinový Projekt D Interaktivní Mapa 
-### Snažil jsem se na tom pracovat sám
+### Prace s Honzou Tančibokem
 
 Provedeno prostřednictvím tutoriálu Google https://developers.google.com/maps/documentation/javascript/mysql-to-maps (což je trochu outdated)
 
