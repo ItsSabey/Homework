@@ -21,10 +21,12 @@ Nechápu, kde je problém.
 
 ![](database.JPG)
 
-## Ve složce ´´Maps´´ najdete index se značkami bez databáze.
+# Ve složce ´´Maps´´ najdete index se značkami bez databáze.
 ![](/Maps/map.JPG)
+
 ### Softwares
 Visual Studio Code, XAMMP, PHPMyAdmin, Apache
+
 ### Jazyky
 HTML, CSS, PHP, JS, XML(možna)
 
