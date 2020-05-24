@@ -1,8 +1,11 @@
 
 # Praxe Skupinový Projekt D Interaktivní Mapa 
-### Prace s Honzou Tančibokem
-
-Provedeno prostřednictvím tutoriálu Google https://developers.google.com/maps/documentation/javascript/mysql-to-maps (což je trochu outdated)
+### Matice odpovědnosti
+ Cabiddu= DBS/PHP/CSS/HTML <br>
+  Tančibok= DBS/PHP/CSS/HTML <br>
+  <br>
+  <br>
+### Provedeno prostřednictvím tutoriálu Google https://developers.google.com/maps/documentation/javascript/mysql-to-maps (což je trochu outdated)
 
 # Problemy
 
