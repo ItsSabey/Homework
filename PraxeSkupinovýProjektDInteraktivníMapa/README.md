@@ -5,7 +5,7 @@
  Tančibok= DBS/CSS <br>
   <br>
   <br>
-### Provedeno prostřednictvím tutoriálu Google https://developers.google.com/maps/documentation/javascript/mysql-to-maps (což je trochu outdated)
+### Provedeno prostřednictvím tutoriálu Google <br>https://developers.google.com/maps/documentation/javascript/mysql-to-maps (což je trochu outdated)
 
 # Problemy
 
