@@ -1,3 +1,3 @@
-Úkol: udělat UML DIAGRAM na program, který vytváří TextArt.
+# Úkol: udělat UML Diagram na program, který vytváří TextArt.
 
 ![](UMLDiagram.jpg)
